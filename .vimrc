@@ -1,9 +1,9 @@
 set runtimepath+=~/.vim_runtime
 
-source ~/.vim_runtime/vimrcs/basic.vim
-source ~/.vim_runtime/vimrcs/filetypes.vim
+source ~/.vim_runtime/basic.vim
+source ~/.vim_runtime/filetypes.vim
 "source ~/.vim_runtime/vimrcs/plugins_config.vim
-source ~/.vim_runtime/vimrcs/extended.vim
+source ~/.vim_runtime/extended.vim
 
 set tabstop=4    "number of visual spaces per TAB
 set softtabstop=4    "number of spaces in tab when editing
